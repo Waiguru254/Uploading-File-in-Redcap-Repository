@@ -1,4 +1,4 @@
-token <- '65D809BF1931BC88DB387DA88DEAF142'
+
 UploadingRespitory <- function(FileNAME,token,url, folderID){
 formData <- list("token"=token,
                  action='import',
